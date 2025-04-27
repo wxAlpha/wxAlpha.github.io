@@ -1,22 +1,17 @@
 ---
 layout: post
-title:  "读书笔记 - HeatWave"
-categories: HeatWave
-tags:  HeatWave
+title:  "搭建网站"
+categories: Others
+tags:  Others
 author: Epsilon
 ---
 
 * content
 {:toc}
 
-for the sake of brevity
+搭建一个简单的个人网站，记录一些代码和科研感想。
 
-a brief summary of
+直接fork了一个看起来还不错的模版，从github网页端管理，懒得自己电脑上开始搭建了。
 
-from a geological perspective
+以后需要什么有个公共的平台可以翻找，也不错。
 
-
-Shorter wavelengths have more energy per photon. 
-
-
-The electromagnetic spectrum includes, in order of decreasing wavelength: radio waves, microwaves, IR, visible light, ultraviolet, X-rays, and gamma rays. 
